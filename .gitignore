@@ -1,0 +1,16 @@
+# Caches Python et environnements virtuels
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Fichiers de compilation Arduino
+build/
+*.elf
+*.hex
+*.bin
+
+# Fichiers systèmes (Windows/Mac)
+.DS_Store
+Thumbs.db
